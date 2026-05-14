@@ -1,3 +1,1 @@
-hello dosto 
-hello world
-hello
+hello dosto
